@@ -14,7 +14,8 @@
 3. Take a few columns and manipualte some calculations using Rust
 4. Microservices
 
-![Alt text](https://en.wikipedia.org/wiki/List_of_countries_by_minimum_wage#/media/File:Minimum_wages_by_territory.png)
+![Alt text](https://github.com/belladu0201/Images_Beibei/blob/main/Minimum_wages_by_territory.png)
+
 
 
 ## Reference
