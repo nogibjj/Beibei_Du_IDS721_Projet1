@@ -21,3 +21,6 @@ https://github.com/noahgift/gcp-hello-ml
 https://github.com/nogibjj/rust-mlops-template
 
 
+https://www.kaggle.com/datasets/kabhishm/countries-by-average-wage (Kaggle Dataset)
+
+
