@@ -8,6 +8,12 @@
 - Use either AWS, Azure, GCP (recommended services include Google App Engine, AWS App Runner or Azure App Services)
 - Containerization is optional, but recommended
 
+## Mindmap
+1. Find a csv online
+2. Take a few columns and manipualte some calculations using Rust
+3. Microservices
+
+
 
 ## Reference
 https://github.com/noahgift/gcp-hello-ml
