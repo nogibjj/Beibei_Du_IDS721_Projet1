@@ -9,9 +9,10 @@
 - Containerization is optional, but recommended
 
 ## Mindmap
-1. Find a csv online
-2. Take a few columns and manipualte some calculations using Rust
-3. Microservices
+1. Find an interested csv online 
+2. Cleaned the dataset if needed
+3. Take a few columns and manipualte some calculations using Rust
+4. Microservices
 
 
 
