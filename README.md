@@ -6,7 +6,7 @@
 - Configure Build System to Deploy changes
 - Use IaC (Infrastructure as Code) to deploy code
 - Use either AWS, Azure, GCP (recommended services include Google App Engine, AWS App Runner or Azure App Services)
-- Containerization is optional, but recommended
+- Containerization is optional, but recommended: Create a virtual environment
 
 ## Mindmap
 1. Find an interested csv online 
