@@ -1,17 +1,21 @@
 import numpy as np
-from flask import Flask, request, render_template
+from flask import Flask, render_template
 import pickle
-from model import avg_wage_pred_2022
 
-
+def guess
 app = Flask(__name__)
 Model = pickle.load(open("model.pkl", "rb"))
 
 
-def avg_wage_pred_2022(features, regressor):
-    prediction = regressor.predict(features)
-    return prediction 
+@app.route('/')
+def first_line():
+    print("This is the first line of the app.py file")
+    return 'This is an app to predict the average wage of a country.'
 
+@app.route('/')
+def avg_wage_pred(wages, regressor):
+    prediction = regressor.predict(wages)
+    return prediction
 
 @app.route("/")
 def index():
