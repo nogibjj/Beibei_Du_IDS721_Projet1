@@ -17,7 +17,9 @@
 ![Alt text](https://github.com/belladu0201/Images_Beibei/blob/main/Minimum_wages_by_territory.png)
 
 ## Flask Framework
-[!alt]
+
+* Test out the desired outputs in `test_app.py`
+![Alt](https://github.com/belladu0201/Images_Beibei/blob/main/ids721/Screen%20Shot%202023-02-08%20at%204.12.19%20AM.png)
 
 ## Reference
 https://github.com/noahgift/gcp-hello-ml
