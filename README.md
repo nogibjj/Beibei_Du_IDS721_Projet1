@@ -16,7 +16,8 @@
 
 ![Alt text](https://github.com/belladu0201/Images_Beibei/blob/main/Minimum_wages_by_territory.png)
 
-
+## Flask Framework
+[!alt]
 
 ## Reference
 https://github.com/noahgift/gcp-hello-ml
