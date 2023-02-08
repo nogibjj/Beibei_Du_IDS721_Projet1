@@ -19,7 +19,7 @@ def first_line():
 @app.route("/guess/<country>")
 def guess_country(country):
     """
-    guess the country with highest average wage in 2022
+    guess the country with highest average wage in 2020
     """
     # check if the country is in the dataset
     print("Guess the country with the highest avergae income in 2020")
