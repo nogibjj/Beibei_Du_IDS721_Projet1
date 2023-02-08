@@ -29,3 +29,8 @@ check-gpu-linux:
 	sudo lshw -C display
 
 all: format lint test
+
+all:
+	pip install flask
+
+.PHONY: all
