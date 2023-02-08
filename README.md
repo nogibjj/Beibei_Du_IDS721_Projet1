@@ -17,8 +17,13 @@
 ![Alt text](https://github.com/belladu0201/Images_Beibei/blob/main/Minimum_wages_by_territory.png)
 
 ## Flask Framework
+### Examples of the app in `app2.py`
+1. china is not in the dataset, thus it will return "The country is not in the dataset"
+![Alt](https://github.com/belladu0201/Images_Beibei/blob/main/ids721/Screen%20Shot%202023-02-08%20at%204.12.43%20AM.png)
+2. The following is to show the predicted 2020 average wage in the United States
+![Alt](https://github.com/belladu0201/Images_Beibei/blob/main/ids721/Screen%20Shot%202023-02-08%20at%204.12.58%20AM.png)
 
-* Test out the desired outputs in `test_app.py`
+### Test out the desired outputs in `test_app.py`
 ![Alt](https://github.com/belladu0201/Images_Beibei/blob/main/ids721/Screen%20Shot%202023-02-08%20at%204.12.19%20AM.png)
 
 ## Reference
