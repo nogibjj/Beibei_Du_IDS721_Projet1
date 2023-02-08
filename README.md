@@ -26,6 +26,15 @@
 ### Test out the desired outputs in `test_app.py`
 ![Alt](https://github.com/belladu0201/Images_Beibei/blob/main/ids721/Screen%20Shot%202023-02-08%20at%204.12.19%20AM.png)
 
+## Deployment on AWS
+- This is a good practice to deploy it on the AWS App Runner
+1. Creating the Services
+![Alt](https://github.com/belladu0201/Images_Beibei/blob/main/ids721/Screen%20Shot%202023-02-08%20at%204.37.12%20AM.png)
+2. Configuration/Deployment Processes
+![Alt](https://github.com/belladu0201/Images_Beibei/blob/main/ids721/Screen%20Shot%202023-02-08%20at%204.38.35%20AM.png)
+![Alt](https://github.com/belladu0201/Images_Beibei/blob/main/ids721/Screen%20Shot%202023-02-08%20at%204.38.28%20AM.png)
+
+
 ## Reference
 https://github.com/noahgift/gcp-hello-ml
 
